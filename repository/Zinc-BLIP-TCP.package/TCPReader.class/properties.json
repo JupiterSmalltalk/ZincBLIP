@@ -1,0 +1,14 @@
+{
+	"category" : "Zinc-BLIP-TCP",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TCPReader",
+	"pools" : [
+		 ],
+	"super" : "TCPStream",
+	"type" : "normal" }

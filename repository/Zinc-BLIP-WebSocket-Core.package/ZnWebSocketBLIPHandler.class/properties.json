@@ -1,0 +1,16 @@
+{
+	"category" : "Zinc-BLIP-WebSocket-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 07/04/2016 18:42",
+	"instvars" : [
+		"webSockets",
+		"lock",
+		"gemServer" ],
+	"name" : "ZnWebSocketBLIPHandler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
