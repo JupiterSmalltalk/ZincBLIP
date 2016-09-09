@@ -1,0 +1,14 @@
+{
+	"category" : "Zinc-BLIP-WebSocket-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 09/01/2016 18:04",
+	"instvars" : [
+		"maintenanceVm" ],
+	"name" : "ZnBLIPGemServer",
+	"pools" : [
+		 ],
+	"super" : "ZnNewGemServer",
+	"type" : "normal" }

@@ -1,12 +1,12 @@
 constants
-clientHtml
-	^ '<!DOCTYPE html>
+versionHtml
+  ^ '<!DOCTYPE html>
 <meta charset="utf-8" />
-<title>WebSocket Chatroom</title>
+<title>BLIP WebSocket</title>
 
 <script language="javascript" type="text/javascript">
 
-  var wsUri = "ws://" + location.host + "/ws-chatroom";
+  var wsUri = "ws://" + location.host + "/blip";
   var websocket;
   var output, handleInput, messageInput, sendButton, closeButton;
 
@@ -74,7 +74,7 @@ clientHtml
 
 </script>
 
-<h2>WebSocket Chatroom</h2>
+<h2>BLIP WebSoccket Version Information</h2>
 <div>
 Handle: <input id="handleInput" type="text"/>
 Message: <input id="messageInput" type="text" size="64"/> 

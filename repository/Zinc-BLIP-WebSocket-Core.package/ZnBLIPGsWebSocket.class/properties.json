@@ -4,13 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "jupiter 07/04/2016 18:42",
+	"commentStamp" : "",
 	"instvars" : [
-		"webSockets",
-		"lock",
 		"gemServer" ],
-	"name" : "ZnWebSocketBLIPHandler",
+	"name" : "ZnBLIPGsWebSocket",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "ZnBLIPWebSocket",
 	"type" : "normal" }

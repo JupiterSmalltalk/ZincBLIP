@@ -1,0 +1,14 @@
+{
+	"category" : "Zinc-BLIP-WebSocket-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ZnBLIPGsWebSocketResponse",
+	"pools" : [
+		 ],
+	"super" : "ZnBLIPWebSocketResponse",
+	"type" : "normal" }

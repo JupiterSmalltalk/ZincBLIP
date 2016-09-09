@@ -1,0 +1,16 @@
+{
+	"category" : "Zinc-BLIP-WebSocket-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 07/06/2016 19:26",
+	"instvars" : [
+		"stream",
+		"role",
+		"log" ],
+	"name" : "ZnBLIPWebSocket",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
